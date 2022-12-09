@@ -32,7 +32,16 @@ header nav{
     font-size: 20px;
 }
 
-#side-tab {
+header nav ul {
+    list-style-type: none;
+}
+
+header nav li{
+    display: inline-block;
+    margin-left;
+}
+
+/*#side-tab {
     position:fixed;
     display: inline-block;
     background: #8085d4;
@@ -45,7 +54,7 @@ header nav{
     text-align: center;
   
 }
-
+*/
 
 .header div {
     padding-top: 15px;
