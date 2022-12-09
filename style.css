@@ -1,3 +1,4 @@
+/*GENERAL STYLE*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,6 +8,7 @@
 body {
     background-color: #8085d4;
 }
+/*HEADER*/
 
 header {
     padding: 20px;
@@ -65,7 +67,7 @@ a {
 p{
     font-size: 16px;
 }
-
+/*
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -94,9 +96,9 @@ h3 {
     font-size: 30px;
 }
  
+*/
 
-
-
+/*HERO SECTION*/
 .hero {
     height: 800px;
     width: 100%;
@@ -104,6 +106,13 @@ h3 {
     background-image: url("https://johnmccarterconstruction.com/wp-content/uploads/replacement-windows-ann-arbor.jpg");
     background-size: cover;
     background-position: center;
+}
+
+/*MAIN*/
+main{
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
 }
 
 /*FLOATS*/
@@ -118,11 +127,12 @@ h3 {
     margin-left: 25px;
 }
 
-.content {
+
+/*.content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
-}
+}*/
 
 .benefits {
     margin-right: 20px;
