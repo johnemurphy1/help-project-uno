@@ -1,4 +1,6 @@
 # Project-Uno
+This was to help jsdrever with his hw project. 
+
 Bootcamps first mini-project. Due Dec. 8
 
 Technical Acceptance Criteria: 40%
